@@ -8,9 +8,9 @@ This project involves analyzing sales and financial data to generate impactful r
 ## Objectives  
 
 ### Sales Report  
-- Create a **Customer Performance Report**.  
-- Conduct a comprehensive comparison between **Market Performance** and **Sales Targets**.  
-- Generate reports for:  
+- To create a **Customer Performance Report**.  
+- To conduct a comprehensive comparison between **Market Performance** and **Sales Targets**.  
+- To generate reports for:  
   - **Top 10 Products**.  
   - **Top & Bottom 5 Products**.  
   - **New Products (2021)**.  
@@ -25,11 +25,11 @@ This project involves analyzing sales and financial data to generate impactful r
 - Identify promising countries for expansion.  
 
 ### Finance Report  
-- Create **Profit and Loss (P&L)** reports:  
+- To create **Profit and Loss (P&L)** reports:  
   - By **Fiscal Year** & **Months**.  
   - By **Markets**.  
   - By **Fiscal Year & Market Breakdown**.  
-- Generate **Gross Margin % by Quarter** (Sub-zone).  
+- To generate **Gross Margin % by Quarter** (Sub-zone).  
 
 **Purpose:** Evaluate financial performance and support stakeholder decision-making.  
 **Importance:** Aid benchmarking against peers and provide a foundation for budgeting and forecasting.  
