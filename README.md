@@ -8,7 +8,7 @@ This project involves analyzing sales and financial data to generate impactful r
 ## Objectives  
 
 ### Sales Report  
-- To create a **Customer Performance Report**.  
+- To create a **Customer Performance Report**. 
 - To conduct a comprehensive comparison between **Market Performance** and **Sales Targets**.  
 - To generate reports for:  
   - **Top 10 Products**.  
