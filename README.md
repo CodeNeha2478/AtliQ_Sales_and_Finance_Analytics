@@ -1,4 +1,4 @@
-# Sales and Finance Analytics of AtliQ Hardware
+# AtliQ’s Sales and Finance Analytics
  Tools used -  Microsoft Excel
 ## Project Overview  
 This project involves analyzing sales and financial data to generate impactful reports that empower strategic decision-making and enhance business performance.  
