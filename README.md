@@ -5,9 +5,7 @@
 👉 **Finance Report:** [Click here](https://drive.google.com/file/d/1ErbjyE9dj6vUpaCk30tw77kiX7_QzINp/view?usp=drive_link)  
 
 ---
-
 **Tools Used:** Microsoft Excel
-
 ---
 
 ## Project Overview
