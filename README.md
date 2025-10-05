@@ -1,9 +1,12 @@
-# AtliQ’s Sales and Finance Analytics
-**Tools Used:** Microsoft Excel  
-
+# Sales and Finance Analytics
+  
 👉 **Presentation Link:** [Click here](https://www.linkedin.com/posts/neha-gupta-357754149_sales-and-finance-analytics-report-activity-7275241773055008768-yDPZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPiVfMBJENnTusDWDdP_ZMHY4SFSUi1m8A)  
 👉 **Sales Report:** [Click here](https://drive.google.com/file/d/1y4JSCYpIQ6lQxXTilFE5sv9pFDwTwdnm/view?usp=drive_link)  
 👉 **Finance Report:** [Click here](https://drive.google.com/file/d/1ErbjyE9dj6vUpaCk30tw77kiX7_QzINp/view?usp=drive_link)  
+
+---
+
+**Tools Used:** Microsoft Excel
 
 ---
 
